@@ -1,4 +1,4 @@
-# Análisis del Consumo con Tarjetas de Crédito y Débito en Ecuador mediante Modelos ARIMA
+# Análisis del Consumo con Tarjetas de Crédito y Débito en Ecuador
 
 ## 🎯 Objetivo
 
